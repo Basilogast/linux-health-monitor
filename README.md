@@ -28,7 +28,7 @@ This project demonstrates **Systems Engineering** fundamentals, including creati
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/linux-health-monitor.git](https://github.com/YOUR_USERNAME/linux-health-monitor.git)
+    git clone [https://github.com/Basilogast/linux-health-monitor.git](https://github.com/Basilogast/linux-health-monitor.git)
     cd linux-health-monitor
     ```
 
